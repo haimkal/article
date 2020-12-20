@@ -1,0 +1,11 @@
+.Article {
+    padding: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(120deg, rgb(255, 238, 193) 13%, rgb(244, 234, 122) 90%);
+}
+
+.Article>p {
+    padding: 42px;
+    font-size: 22px;
+    line-height: 40px;
+}
